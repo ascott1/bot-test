@@ -1,0 +1,23 @@
+{
+  "name": "bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascott1/bot-test.git"
+  },
+  "keywords": [],
+  "author": "Adam Scot <hello@adamdscott.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascott1/bot-test/issues"
+  },
+  "homepage": "https://github.com/ascott1/bot-test#readme",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
