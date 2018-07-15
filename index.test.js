@@ -2,4 +2,5 @@
 
 test('Sample test', () => {
   expect(!true).toEqual(false)
+  expect(true).toEqual(!false)
 })
